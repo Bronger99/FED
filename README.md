@@ -36,16 +36,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  www.derm.nl
+  www.freshcotton.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Homepage  
-  <img src="readme-images/ssHome.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/homescreen1" width="375px" alt="screenshot.homescreen1">
+  <img src="readme-images/homescreen2" width="375px" alt="screenshot.homescreen2">
+  <img src="readme-images/homescreen3" width="375px" alt="screenshot.homescreen3">
+  <img src="readme-images/homescreen4" width="375px" alt="screenshot.homescreen4">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Wat wij doen  
-  <img src="readme-images/ssWatwijdoen.png" width="375px" alt="omschrijving van de pagina">
- 
+  <img src="readme-images/product1" width="375px" alt="screenshot.productpagina1">
+  <img src="readme-images/product2" width="375px" alt="screenshot.productpagina2">
+  <img src="readme-images/product3" width="375px" alt="screenshot.productpagina3">
+  <img src="readme-images/product4" width="375px" alt="screenshot.productpagina4">
+  
 </details>
 
 
