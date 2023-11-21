@@ -46,7 +46,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/homescreen4" width="375px" alt="screenshot.homescreen4">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Wat wij doen  
+  Productspecifieke pagina  
   <img src="readme-images/product1" width="375px" alt="screenshot.productpagina1">
   <img src="readme-images/product2" width="375px" alt="screenshot.productpagina2">
   <img src="readme-images/product3" width="375px" alt="screenshot.productpagina3">
